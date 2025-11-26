@@ -1,2 +1,68 @@
 # projeto_introducao_html
 Exercício de HTML criado para revisar e aplicar tags fundamentais e algumas tags adicionais pesquisadas por conta própria
+
+
+<html>
+    <head>
+    <title>Meu Primeiro Website</title>
+    </head>
+    <body>
+
+    <h1>Bem-vindo ao Meu Website</h1>
+    <h2>Aprendendo HTML</h2>
+    <h3>Seção de Demonstração</h3>
+    <h4>Subtítulo Menor</h4>
+    <h5>Mais um nível</h5>
+    <h6>Último nível de título</h6>
+
+    <hr>
+    
+    <p>
+        Este parágrafo é só um espaço para experimentar à vontade. Tem um 
+        <strong>trecho que ganha força</strong>, outro que desliza em <i>itálico</i>,
+        uma palavra <u>sublinhada</u> para não deixar tudo igual, um ponto em
+        <mark>destaque</mark> que chama o olho e uma notinha em
+        <small>tom discreto</small> no final.
+    </p>
+
+    <p>
+        Também posso usar fórmulas como H<sub>2</sub>O e 2<sup>10</sup>.
+    </p>
+
+    <p>
+        <font color="blue">Exemplo com a tag &lt;font&gt;, mesmo sendo antiga.</font>
+    </p>
+
+    <p>
+        Preço antigo: <del>R$ 200,00</del> — Preço novo: <strong>R$ 149,00</strong>.
+    </p>
+
+    <p>
+        Estudo sobre <abbr title="HyperText Markup Language">HTML</abbr> todos os dias.
+    </p>
+
+    <h3>Lista Ordenada</h3>
+    <ol>
+        <li>Introdução</li>
+        <li>Fundamentos</li>
+        <li>Prática</li>
+    </ol>
+
+    <h3>Lista Não Ordenada</h3>
+    <ul>
+        <li>Computador</li>
+        <li>Internet</li>
+        <li>Editor de Código</li>
+    </ul>
+
+    <blockquote>
+        "A web é um lugar vivo, cheio de ideias que mudam todos os dias."
+    </blockquote>
+
+    <p>
+        Meu GitHub:
+        <a href="https://github.com/lucas227-01" target="_blank">clique aqui</a>.
+    </p>
+        
+    </body>
+</html>
